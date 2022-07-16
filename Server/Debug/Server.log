@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\vince\source\repos\Server\Server\Server.cpp(184,7): warning C4101: "input": Unreferenzierte lokale Variable
+C:\Users\vince\source\repos\Server\Server\Server.cpp(185,7): warning C4101: "response": Unreferenzierte lokale Variable
+  Server.vcxproj -> C:\Users\vince\source\repos\Server\Debug\Server.exe
