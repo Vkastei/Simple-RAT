@@ -1,5 +1,5 @@
 # Simple-Remote Access Trojaner
-# Very Simple Remote Access Trojan 
+Remote Access Trojaner through Sockets.
 
 # Currently Working Functions:
 
@@ -7,8 +7,10 @@
 
 -Bluescreen of the dead
 
--Sysinfo
+-Sysinfo (only Hostname)
 
 -Reverse Shell
+
+#Educational Purposes Only!
 
 
