@@ -11,6 +11,6 @@ Remote Access Trojaner through Sockets.
 
 -Reverse Shell
 
-#Educational Purposes Only!
+# Educational Purposes Only!
 
 
