@@ -1,7 +1,7 @@
 # Simple-Remote Access Trojaner
-Very Simple Remote Access Trojan 
+# Very Simple Remote Access Trojan 
 
-Currently Working Functions:
+# Currently Working Functions:
 
 -Shutdown
 
