@@ -1,4 +1,4 @@
-# Simple-RAT-
+# Simple-Remote Access Trojaner
 Very Simple Remote Access Trojan 
 
 Currently Working Functions:
@@ -8,5 +8,7 @@ Currently Working Functions:
 -Bluescreen of the dead
 
 -Sysinfo
+
+-Reverse Shell
 
 
